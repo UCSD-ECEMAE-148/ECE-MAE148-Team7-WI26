@@ -1,6 +1,6 @@
 # ECE-MAE_team7_final_project (WORK IN PROGRESS)
 
-### Contributers
+### Contributors
  - Alexey Grishakov (ECE)
  - Joshua Yoon (MAE) 
  - Micah Wang (ECE)
