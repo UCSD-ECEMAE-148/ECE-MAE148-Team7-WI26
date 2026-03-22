@@ -1,4 +1,4 @@
-# ECE-MAE_team7_final_project (WORK IN PROGRESS)
+# ECE-MAE_team7_final_project
 
 ### Contributors
  - Alexey Grishakov (ECE)
