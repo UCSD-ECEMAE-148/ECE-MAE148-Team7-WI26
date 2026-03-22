@@ -1,5 +1,12 @@
 # ECE-MAE_team7_final_project (WORK IN PROGRESS)
 
+### Contributers
+ - Alexey Grishakov (ECE)
+ - Joshua Yoon (MAE) 
+ - Micah Wang (ECE)
+ - Nikita Thibault (MAE)
+
+
 ## Overview
 This project is a ROS2-based autonomous vehicle system that integrates depth camera, GPS, and VESC sensors to navigate and track objects. It includes a person tracker using DepthAI, a PID controller for VESC motor control, and a search-and-rescue navigation system. The system is designed to operate in a Docker container for portability and reproducibility.
 
